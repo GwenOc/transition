@@ -43,7 +43,6 @@ main a {
     transform-origin: left;
     background-color: red;
 }
-
 /*transition*/
 .transition-fade {
     transition: 0.4s;
